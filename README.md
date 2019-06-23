@@ -11,4 +11,4 @@ $ npm install
 $ node server.js
 ```
 
-It will start up our node server; navigate to http://localhost:8081/scrape/urls, http://localhost:8081/scrape/data and see what's going on.
+It will start up our node server; navigate to http://localhost:8087/scrape/urls, http://localhost:8087/scrape/data and see what's going on.
