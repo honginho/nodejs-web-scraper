@@ -1,6 +1,6 @@
 # Simple Web Scraper
 
-###Reference from [node-web-scraper](https://github.com/scotch-io/node-web-scraper)
+### Reference from [node-web-scraper](https://github.com/scotch-io/node-web-scraper)
 
 Simple web scraper to get `title`, `datetime`, `summary`, and `content` of news from the website **@Simon Huang** gave me.
 
