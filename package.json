@@ -13,6 +13,6 @@
     "express": "latest",
     "request": "latest",
     "request-promise": "^4.2.4",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   }
 }
